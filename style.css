@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #8a8787;
+  color: white;
+  padding: 20px;
+}
+
+a {
+  color: rgb(170, 162, 230);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+#searchBox {
+  display: block;
+  margin: 0 auto 30px;
+  padding: 10px 15px;
+  width: 300px;
+  font-size: 16px;
+  border: 1px solid #cccccc;
+  border-radius: 8px;
+}
+
+.card {
+  background: rgb(16, 4, 50);
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+h2 {
+  margin: 0 0 10px;
+  font-size: 20px;
+  color: white;
+}
+
+p {
+  margin: 5px 0;
+  color: white;
+}
