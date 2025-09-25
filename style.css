@@ -1,12 +1,12 @@
 body {
   font-family: Arial, sans-serif;
-  background: #8a8787;
-  color: white;
+  background: rgb(255, 249, 249);
+  color: rgb(0, 0, 0);
   padding: 20px;
 }
 
 a {
-  color: rgb(170, 162, 230);
+  color: rgb(28, 0, 241);
 }
 
 h1 {
@@ -30,10 +30,11 @@ h1 {
   font-size: 16px;
   border: 1px solid #cccccc;
   border-radius: 8px;
+  background-color: rgb(246, 238, 238);
 }
 
 .card {
-  background: rgb(16, 4, 50);
+  background: rgb(255, 244, 244);
   border-radius: 10px;
   padding: 20px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
@@ -42,10 +43,10 @@ h1 {
 h2 {
   margin: 0 0 10px;
   font-size: 20px;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 p {
   margin: 5px 0;
-  color: white;
+  color: rgb(0, 0, 0);
 }
